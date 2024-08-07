@@ -1,2 +1,2 @@
-# matchmorph-main
-for 2d/3d mri registration
+# matching-main
+for 23d mri registration
